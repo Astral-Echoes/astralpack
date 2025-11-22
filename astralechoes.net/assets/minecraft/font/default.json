@@ -20,6 +20,24 @@
         },
         {
             "type": "bitmap",
+            "file": "astralechoes:custom_ui/guis/select-sub-race.png",
+            "ascent": 20,
+            "height": 91,
+            "chars": [
+                "🬂"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astralechoes:custom_ui/guis/confirm-race.png",
+            "ascent": 20,
+            "height": 91,
+            "chars": [
+                "🬂"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astralechoes:custom_ui/empty.png",
             "ascent": -5000,
             "height": -6,
