@@ -40,7 +40,7 @@
             "type": "bitmap",
             "file": "astralechoes:custom_ui/guis/catalog.png",
             "ascent": 20,
-            "height": 91,
+            "height": 145,
             "chars": [
                 "␄"
             ]
