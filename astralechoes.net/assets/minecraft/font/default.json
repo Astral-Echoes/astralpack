@@ -47,6 +47,15 @@
         },
         {
             "type": "bitmap",
+            "file": "astralechoes:custom_ui/guis/shop.png",
+            "ascent": 20,
+            "height": 145,
+            "chars": [
+                "␅"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astralechoes:custom_ui/empty.png",
             "ascent": -5000,
             "height": -6,
