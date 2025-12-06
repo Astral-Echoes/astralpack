@@ -38,7 +38,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astralechoes:custom_ui/guis/catalog.png",
+            "file": "astralechoes:custom_ui/guis/market.png",
             "ascent": 20,
             "height": 145,
             "chars": [
